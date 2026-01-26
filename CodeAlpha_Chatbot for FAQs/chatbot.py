@@ -9,11 +9,7 @@ faqs = {
     "What is Deep Learning?": "Deep Learning uses neural networks with multiple layers.",
     "What is Python?": "Python is a programming language widely used in AI and ML.",
     "What is Streamlit?": "Streamlit is a Python framework used to build web apps easily.",
-    "What is my name?": "Your name is Srujan bhai alias kojja.",
-    "What is one plus one?": "cheppanu dengey.",
-    "kojja oda madda gudu??": "poyi srujan anna puku naku😀👍."
-
-}
+   }
 
 questions = list(faqs.keys())
 answers = list(faqs.values())
